@@ -1,17 +1,11 @@
-# photo_of_the_day
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Лабораторная работа №5. Асинхронность в Dart и Flutter. Создание приложения «Фото дня»
+## Кузьмина Диана ИСП-232
+___
+![asdasa](assets/images/photo6.jpg)
+___
+**Синхронный** — вы кладёте трубку, садитесь у двери и ждёте. Вы не можете
+ничего делать, пока пицца не приедет. Всё заморожено.
+**Асинхронный** — вы кладёте трубку, занимаетесь своими делами. Когда курьер
+звонит в дверь — вы прерываетесь и забираете пиццу.
+___
+хватит.
